@@ -24,5 +24,4 @@ class ReactComponent extends Component {
         )
     }
 }
-    
 export default ReactComponent;
